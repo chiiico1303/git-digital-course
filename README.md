@@ -5,3 +5,4 @@
 
 * comando git push
 * *comando pull
+* comando git fecth
